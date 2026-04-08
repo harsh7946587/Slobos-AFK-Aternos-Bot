@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nika132132.aternos.me:62711",
+    "ip": "nika132132.aternos.me",
     "port": 62711,
     "version": "",
     "try-creative": false
