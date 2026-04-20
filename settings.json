@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mitra_mandal.aternos.me:39324",
+    "ip": "Mitra_mandal.aternos.me",
     "port": 39324,
     "version": "",
     "try-creative": false
